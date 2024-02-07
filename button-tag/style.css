@@ -1,0 +1,15 @@
+button{
+    margin: 10px;
+}
+
+.blue{
+    background-color: blue;
+    color: red;
+}
+.wow{
+    background-color: green;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 8px 10px
+}
